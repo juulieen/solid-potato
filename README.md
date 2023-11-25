@@ -1,4 +1,4 @@
-# OTP 2
+# OTP 2 Dockerfile for experiment
 
 ## Motivation
 
